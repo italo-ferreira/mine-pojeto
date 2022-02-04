@@ -3,6 +3,7 @@
 @font-face {
     font-family: android;
     src: url(fontes/idroid.otf) format('opentype');
+    font-weight: normal;
 }
 
 :root{
@@ -16,7 +17,6 @@
 
 body{
     background-color: rgb(248, 230, 209);
-    min-width: 600px;
 }
 header{
     background-image: linear-gradient(to top, #1b5c32, #7fd89e);
